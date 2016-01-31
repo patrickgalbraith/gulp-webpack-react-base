@@ -1,0 +1,43 @@
+{
+  "name": "gulp-webpack-starter",
+  "version": "0.1.0",
+  "description": "Gulp/Sass/Webpack/React/Redux base project",
+  "license": "MIT",
+  "author": {
+    "name": "Patrick Galbraith",
+    "url": "http://pjgalbraith.com/"
+  },
+  "repository": "patrickgalbraith/gulp-webpack-starter",
+  "scripts": {},
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-redux": "^4.1.2",
+    "redux": "^3.1.6",
+    "redux-thunk": "^1.0.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-plugin-react-transform": "^2.0.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-runtime": "^6.3.19",
+    "gulp": "^3.9.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "node-sass": "^3.4.2",
+    "react-transform-hmr": "^1.0.1",
+    "redux-devtools": "^3.0.2",
+    "redux-devtools-dock-monitor": "^1.0.1",
+    "redux-devtools-log-monitor": "^1.0.2",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-hot-middleware": "^2.6.4"
+  }
+}
